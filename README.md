@@ -1,2 +1,4 @@
-learn-the-hard-way
+code assigments
 ==================
+
+School assigments and "learn to code" projects
