@@ -1,4 +1,4 @@
 code assigments
 ==================
 
-School assigments and "learn to code" projects
+School assigments and "learn to code" projects etc.
